@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 float vetScore[10] = {0,0,0,0,0,0,0,0,0,0};
-
+teste
 void exibirScore();
 int insertScore();
 float downloadScore(float value);
